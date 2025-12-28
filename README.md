@@ -68,5 +68,8 @@ install.packages(c(
 
 
 
-A recommended layout (adapt to your repository as needed):
+### Disclaimer
+
+This code is provided for academic and reproducibility purposes.
+It is not investment advice and should not be used for trading decisions.
 
