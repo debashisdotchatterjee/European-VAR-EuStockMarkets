@@ -38,9 +38,6 @@ the code:
 ---
 
 
-If your current file names differ, keep the README text and just update the paths.
-
----
 
 ## 2. Requirements
 
